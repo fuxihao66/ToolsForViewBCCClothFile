@@ -12,7 +12,7 @@ A small tool for reading and plotting BCC cloth file provided by
 2. add include path
    * src
    * ThirdParty/cyCodeBase-master
-   * ThirdParty/glfw-3.3.6.bin.WIN64\include
+   * ThirdParty/glfw-3.3.6.bin.WIN64/include
 3. add library path
    * ThirdParty/glfw-3.3.6.bin.WIN64/lib-vc2019
 4. copy shaders to project path
