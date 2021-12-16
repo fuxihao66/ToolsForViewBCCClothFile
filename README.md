@@ -13,7 +13,8 @@ A small tool for reading and plotting BCC cloth file provided by Yuskel: http://
    * ThirdParty/glfw-3.3.6.bin.WIN64/include
 3. add library path
    * ThirdParty/glfw-3.3.6.bin.WIN64/lib-vc2019
-4. copy shaders to project path
+4. add glfw3.lib file to linker input
+5. copy shaders to project path
    * src/test.vs  and src/test.ps
 
 ## Screenshot
