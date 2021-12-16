@@ -1,8 +1,6 @@
 # A small tool for reading bcc file
 
-A small tool for reading and plotting BCC cloth file provided by 
-
-[Yuskel]: http://www.cemyuksel.com/research/yarnmodels/
+A small tool for reading and plotting BCC cloth file provided by Yuskel: http://www.cemyuksel.com/research/yarnmodels/
 
 (the sample codes provided by Yuskel have some problems..)
 
